@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Leoace02
-- 👀 I’m interested in data science related subjects 
-- 🌱 I’m currently learning python and R 
-- 💞️ I’m looking to collaborate on nothing as of now
+- 👋 Hi, I’m Sid
+- 👀 I’m interested in data science-related subjects 
+- 🌱 I’m currently learning Data analysis related subjects
 - 📫 How to reach me komixer2002@gmail.com
 
 <!---
